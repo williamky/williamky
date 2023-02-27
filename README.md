@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm William 👋
 
 I'm a data analyst/scientist with a focus on marketing, and I'm also learning data science, machine learning, and software engineering. 
 This repository is a collection of my projects and code samples that I've worked on during my learning journey.
